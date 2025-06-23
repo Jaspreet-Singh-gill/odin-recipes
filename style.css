@@ -1,0 +1,57 @@
+
+h1{
+    padding: 20px;
+    border: 2px dotted black;
+    background-color: rgb(228, 255, 255);
+}
+.image1{
+    width: 400px;
+    height: auto;
+    padding: 20px;
+    border: 2px dotted black;
+    background-color: rgb(228, 255, 255);
+
+}
+
+div{
+    border:2px solid rgba(0 0 0 0);
+    background-color: rgb(228, 255, 255);
+    padding:20px;
+    margin:10px auto;
+}
+
+
+.back{
+    
+     height: 20px;
+     width: 80px;
+     padding: 5px;
+     margin:10px auto;
+     text-align: center;
+     border: 2px solid black;
+
+}
+
+.heading{
+    padding: 0px;
+}
+
+
+.list{
+    border:2px solid rgb(199, 249, 255);
+    padding:15px;
+    background-color: rgb(193, 255, 255);
+    display: flex;
+    margin:20px;
+
+
+}
+.list img{
+    padding: 20px;
+}
+
+.list #one{
+    display: inline-block;
+    padding:10px;
+    margin:20px;
+}
